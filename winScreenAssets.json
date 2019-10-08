@@ -1,0 +1,39 @@
+{"frames": {
+
+"winScreen1.png":
+{
+	"frame": {"x":0,"y":0,"w":800,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":600},
+	"sourceSize": {"w":800,"h":600}
+},
+"winScreen2.png":
+{
+	"frame": {"x":0,"y":600,"w":800,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":600},
+	"sourceSize": {"w":800,"h":600}
+},
+"winScreen3.png":
+{
+	"frame": {"x":0,"y":1200,"w":800,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":600},
+	"sourceSize": {"w":800,"h":600}
+}},
+"animations": {
+	"winScreen": ["winScreen1.png","winScreen2.png","winScreen3.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "winScreenAssets.png",
+	"format": "RGBA8888",
+	"size": {"w":800,"h":1800},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:18cb8dba4eb9555504cdedf926d35b07:b1f2f6144962d1eee858a6447d42cc80:cb347620642c5f8a21220892ae146a98$"
+}
+}

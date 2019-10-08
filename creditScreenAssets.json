@@ -1,0 +1,39 @@
+{"frames": {
+
+"creditScreen1.png":
+{
+	"frame": {"x":0,"y":0,"w":800,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":600},
+	"sourceSize": {"w":800,"h":600}
+},
+"creditScreen2.png":
+{
+	"frame": {"x":0,"y":600,"w":800,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":600},
+	"sourceSize": {"w":800,"h":600}
+},
+"creditScreen3.png":
+{
+	"frame": {"x":0,"y":1200,"w":800,"h":600},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":800,"h":600},
+	"sourceSize": {"w":800,"h":600}
+}},
+"animations": {
+	"creditScreen": ["creditScreen1.png","creditScreen2.png","creditScreen3.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "creditScreenAssets.png",
+	"format": "RGBA8888",
+	"size": {"w":800,"h":1800},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:8f730dafb97915e827be4c101645820d:0c220023ef724b86c2ca13aca9d0729a:f7ebda9d06a1918ab40c466443cd2b3b$"
+}
+}
